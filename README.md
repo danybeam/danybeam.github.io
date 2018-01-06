@@ -1,7 +1,7 @@
 # Welcome to my personal Github pages page
 This is intended as the central hub of all projects I intend to make somewhat public
 I'll be taking the 100 dyas of code challenge starting on January 5th so stay tuned
-___
+
 ## Log of Round 1 of #100DaysOfCode - done in 2018
 
 ### Day 1: January 5. Friday
