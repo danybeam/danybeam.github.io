@@ -35,5 +35,20 @@ Even if today wasn't a great day I still feel very good about the challenge
 
 **Link to work:** I practiced offline this time but here is the book and a couple of photos of todays work
 * [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
-* Getting familiarized with objects in Python ![Proof of Work 1](https://github.com/danybeam/danybeam.github.io/blob/master/R1D3%20proof%20of%20work%201%20-%20python.PNG)
-* Doing some excercises from the book ![Proof of Work 2](https://github.com/danybeam/danybeam.github.io/blob/master/R1D3%20proof%20of%20work%202%20-%20python.PNG)
+* Getting familiarized with objects in Python ![Proof of Work 1](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%203/R1D3%20proof%20of%20work%201%20-%20python.PNG)
+* Doing some excercises from the book ![Proof of Work 2](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%203/R1D3%20proof%20of%20work%202%20-%20python.PNG)
+
+### Day 4: January 8. Monday
+
+**Today's Progress**: Finished Chapter 2 exercises of "Python Facil" and started chapter 3
+
+**Thoughts:** I selpt all day so starting was particularly dificult today  
+Even if yesterday was hard today was not only mentally hard but also physically
+I loved using "yield" I don't know what I want it for yet but it's still awesome
+
+**Link to work:** I practiced offline this time but here is the book and a couple of photos of todays work
+* [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
+* Exercise 1 ![Proof of Work 1](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%204/R1D4%20proof%20of%20work%201%20-%20python.PNG)
+* exercise 2 ![Proof of Work 2](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%204/R1D4%20proof%20of%20work%202%20-%20python.PNG)
+* exercise 3 ![Proof of Work 3](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%204/R1D4%20proof%20of%20work%203%20-%20python.PNG) by the way, "yield" is weird... and I LOVE IT
+* messing around with diamond inheritance (result was 'c' by the way) ![Proof of Work 4](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%204/R1D4%20proof%20of%20work%204%20-%20python.PNG)
