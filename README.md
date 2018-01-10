@@ -65,3 +65,15 @@ but this is abouit discipline and oficial rules state that missing a day is not 
 Which is totally cool because I was planning to anyways
 
 **Commitment:** I hereby commit to work an aditional day to make up for today
+
+
+### Day 5: January 10. Wednesday
+
+**Today's Progress**: Finished reading Chapter 3 of "Python Facil" and started chapter 3 exercises
+
+**Thoughts:** I started reading the book because I wasn't on the right mood for my project on day 3 but now I feel like it's snowballing, there are some things I find a bit wierd in Python, but it's a very generous language and it's pretty easy to maipulate I hope I can start a project on Python soon.
+
+**Link to work:** I practiced offline this time but here is the book and a couple of photos of todays work
+* [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
+* Exercise 1 ![Proof of Work 1](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%205/R1D5%20proof%20of%20work%202%20-%20python.PNG)
+* Messing around with "if" statements ![Proof of Work 1](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%205/R1D5%20proof%20of%20work%201%20-%20python.PNG)
