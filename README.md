@@ -52,3 +52,16 @@ I loved using "yield" I don't know what I want it for yet but it's still awesome
 * exercise 2 ![Proof of Work 2](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%204/R1D4%20proof%20of%20work%202%20-%20python.PNG)
 * exercise 3 ![Proof of Work 3](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%204/R1D4%20proof%20of%20work%203%20-%20python.PNG) by the way, "yield" is weird... and I LOVE IT
 * messing around with diamond inheritance (result was 'c' by the way) ![Proof of Work 4](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%204/R1D4%20proof%20of%20work%204%20-%20python.PNG)
+
+
+### January 9. Tuesday
+
+**Today's Progress**: I had to take care of somme school stuff and completely forgot to work today
+
+**Thoughts:** Honestly I'm ashamed I had to take a day of so quickly  
+I had to re-sign up for a class because it was full when I first made my semester schedule  
+and the guy that was going to be my partner couldn't make it to the same group so I was kind of sad and that made me derail a little  
+but this is abouit discipline and oficial rules state that missing a day is not failing if you add an extra day at the end  
+Which is totally cool because I was planning to anyways
+
+**Commitment:** I hereby commit to work an aditional day to make up for today
