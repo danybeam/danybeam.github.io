@@ -77,3 +77,13 @@ Which is totally cool because I was planning to anyways
 * [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
 * Exercise 1 ![Proof of Work 1](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%205/R1D5%20proof%20of%20work%202%20-%20python.PNG)
 * Messing around with "if" statements ![Proof of Work 1](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%205/R1D5%20proof%20of%20work%201%20-%20python.PNG)
+
+### Day 6: January 11. Thursday
+
+**Today's Progress**: Finished chapter 3 excersice 1 (skipped the rest) and started reading chapter 4
+
+**Thoughts:** Slow day but chapter 3 excersices where kind of a drag with little to no benefit to someone that already knows to programm and chapter 4 is getting deep with matrixes so I'm focusing more on the code or on the theory
+
+**Link to work:**
+* [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
+* End of exercise 1 of chapter 3 is just adding some attributes and the apropiate getters/setters
