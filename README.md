@@ -87,3 +87,20 @@ Which is totally cool because I was planning to anyways
 **Link to work:**
 * [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
 * End of exercise 1 of chapter 3 is just adding some attributes and the apropiate getters/setters
+
+### Day 7: January 12. Friday
+
+**Today's Progress**: Finished chapter 4 and excersices 2 and 3 and started chapter 5
+
+**Thoughts:** Honestly some excersices while VERY academic and formative are a big middle finger to someone that is learning  
+There are some path finding algorithms that are asked as if it weren't a biggie, 
+wich I admit they ultimately aren't for a seasoned programmer 
+but if you're still learning the language (like me) or starting to learn programming itself (like the intended audience)
+it's kinda daunting
+
+**Link to work:**
+* [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
+* Exercise 2 (iterators) ![Proof of Work 1](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%207/R1D7%20proof%20of%20work%201%20-%20python.PNG)
+* Exercise 3 (matrix manipulation) ![Proof of Work 2](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%207/R1D7%20proof%20of%20work%202%20-%20python.PNG)
+* messing around with wrappers ![messing around with wrappers](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%207/R1D7%20proof%20of%20work%203%20-%20python.PNG)
+* result of wrappers ![wrappers result](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%207/R1D7%20proof%20of%20work%203%20-%20result%20-%20python.PNG)
