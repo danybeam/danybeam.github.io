@@ -104,3 +104,16 @@ it's kinda daunting
 * Exercise 3 (matrix manipulation) ![Proof of Work 2](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%207/R1D7%20proof%20of%20work%202%20-%20python.PNG)
 * messing around with wrappers ![messing around with wrappers](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%207/R1D7%20proof%20of%20work%203%20-%20python.PNG)
 * result of wrappers ![wrappers result](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%207/R1D7%20proof%20of%20work%203%20-%20result%20-%20python.PNG)
+
+### Day 8: January 13. Saturdayday
+
+**Today's Progress**: Still on chapter 5, messed around with the concept of wrappers and meta clases
+
+**Thoughts:** nothing much to say today, I did conscious learning but at the same time I was kinda on autopilot
+
+**Link to work:**
+* [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
+* Memoize wrapper ![memoize](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%208/R1D8%20proof%20of%20work%201%20-%20python.PNG)
+* Memoized fibonacci ![fibonacci](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%208/R1D8%20proof%20of%20work%202%20-%20python.PNG)
+* Super duper quick results (seriously try to do it without memoizing and you will feel your pc strugglin') ![results](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%208/R1D8%20proof%20of%20work%203%20-%20python.PNG)
+* messing around with MetaClasses ![metaclass](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%208/R1D8%20proof%20of%20work%204%20-%20python.PNG)
