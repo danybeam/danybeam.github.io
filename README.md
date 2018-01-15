@@ -105,7 +105,7 @@ it's kinda daunting
 * messing around with wrappers ![messing around with wrappers](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%207/R1D7%20proof%20of%20work%203%20-%20python.PNG)
 * result of wrappers ![wrappers result](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%207/R1D7%20proof%20of%20work%203%20-%20result%20-%20python.PNG)
 
-### Day 8: January 13. Saturdayday
+### Day 8: January 13. Saturday
 
 **Today's Progress**: Still on chapter 5, messed around with the concept of wrappers and meta clases
 
@@ -117,3 +117,17 @@ it's kinda daunting
 * Memoized fibonacci ![fibonacci](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%208/R1D8%20proof%20of%20work%202%20-%20python.PNG)
 * Super duper quick results (seriously try to do it without memoizing and you will feel your pc strugglin') ![results](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%208/R1D8%20proof%20of%20work%203%20-%20python.PNG)
 * messing around with MetaClasses ![metaclass](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%208/R1D8%20proof%20of%20work%204%20-%20python.PNG)
+
+### Day 9: January 14. Sunday
+
+**Today's Progress**: Finished chapter 5 and started chapter 6
+
+**Thoughts:** Woke up hangover as hell but discipline is still discipline
+The more I read the more I ask myself why there isn't a universal language 
+that everybody can use regardless of the machine or the purpouse
+I know Java has it's flaws but the portability is what draw me to it
+and that's what first draw me to python, if I find a good/easy to use GUI package on python I might never come back (for hobby things)
+
+**Link to work:**
+* [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
+* no pertinent code today :/
