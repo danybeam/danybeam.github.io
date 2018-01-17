@@ -139,3 +139,13 @@ and that's what first draw me to python, if I find a good/easy to use GUI packag
 **Thoughts:** I don't know why I chosed the day my internet conection was at it's work to start doing RESEARCH but it was too string of an itch, might continue tomorrow
 
 **Link to work:** For privacy (and porn) reasons I won't be sharing my browsing hystory thanks for your comprehension
+
+### Day 11: January 16. Tuesday
+
+**Today's Progress**: Finished chapter 6 and started the final chapter :D
+
+**Thoughts:** I didn't continue, my conection is still crappy but I'm almost finished with the Python book, wich is nice... REALLY NICE actually
+
+**Link to work:** 
+* [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
+* Only reading today
