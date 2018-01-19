@@ -149,3 +149,16 @@ and that's what first draw me to python, if I find a good/easy to use GUI packag
 **Link to work:** 
 * [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
 * Only reading today
+
+### Day 11: January 16. Tuesday
+
+**Today's Progress**: Messed around with threads on python, mostly to learn how they operate
+posted a serious question on reddit "what makes a 'good' programming language?"
+Made a distraction/wouldn't it be nice if_ list on wunderlist because This rabitt hole is WAY too deep
+
+**Thoughts:** I almost missed two days in a row, worst part is it wasn't because of lazyness, more like forgetfullness
+anyways, looks like balancing 100DoC and school isn't going to be as easy as I tought, but it doesn't look imposible... for now
+
+**Link to work:** 
+* ![threads](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%2012/R1D12%20proof%20of%20work%201%20-%20python.PNG)
+* ![new list](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%2012/R1D12%20proof%20of%20work%202%20-%20python.PNG)
