@@ -53,20 +53,6 @@ I loved using "yield" I don't know what I want it for yet but it's still awesome
 * exercise 3 ![Proof of Work 3](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%204/R1D4%20proof%20of%20work%203%20-%20python.PNG) by the way, "yield" is weird... and I LOVE IT
 * messing around with diamond inheritance (result was 'c' by the way) ![Proof of Work 4](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%204/R1D4%20proof%20of%20work%204%20-%20python.PNG)
 
-
-### January 9. Tuesday
-
-**Today's Progress**: I had to take care of somme school stuff and completely forgot to work today
-
-**Thoughts:** Honestly I'm ashamed I had to take a day of so quickly  
-I had to re-sign up for a class because it was full when I first made my semester schedule  
-and the guy that was going to be my partner couldn't make it to the same group so I was kind of sad and that made me derail a little  
-but this is abouit discipline and oficial rules state that missing a day is not failing if you add an extra day at the end  
-Which is totally cool because I was planning to anyways
-
-**Commitment:** I hereby commit to work an aditional day to make up for today
-
-
 ### Day 5: January 10. Wednesday
 
 **Today's Progress**: Finished reading Chapter 3 of "Python Facil" and started chapter 3 exercises
@@ -150,7 +136,7 @@ and that's what first draw me to python, if I find a good/easy to use GUI packag
 * [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
 * Only reading today
 
-### Day 11: January 16. Tuesday
+### Day 12: January 18. Thursday
 
 **Today's Progress**: Messed around with threads on python, mostly to learn how they operate
 posted a serious question on reddit "what makes a 'good' programming language?"
@@ -162,3 +148,10 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Link to work:** 
 * ![threads](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%2012/R1D12%20proof%20of%20work%201%20-%20python.PNG)
 * ![new list](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%2012/R1D12%20proof%20of%20work%202%20-%20python.PNG)
+
+### Day 13: January 18. Friday
+
+**Today's Progress**: Continued chapter 7, not great advance since they explained red and black trees with "pictures" on a black and white book
+**Thoughts:** I don't know if the autor knew they where going to print it on a black and white book but explaining colors with black and white pictures was a stupid idea
+**Link to work:** 
+* [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
