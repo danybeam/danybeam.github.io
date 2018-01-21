@@ -149,9 +149,16 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 * ![threads](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%2012/R1D12%20proof%20of%20work%201%20-%20python.PNG)
 * ![new list](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%2012/R1D12%20proof%20of%20work%202%20-%20python.PNG)
 
-### Day 13: January 18. Friday
+### Day 13: January 19. Friday
 
 **Today's Progress**: Continued chapter 7, not great advance since they explained red and black trees with "pictures" on a black and white book
 **Thoughts:** I don't know if the autor knew they where going to print it on a black and white book but explaining colors with black and white pictures was a stupid idea
+**Link to work:** 
+* [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
+
+### Day 14: January 21. Sunday
+
+**Today's Progress**: I finally finished that book
+**Thoughts:** It has been ages since I finished a book (because of pleasure) I know I didn't become a god in Python or anything but for I feel confident enough for hobby projects and I might actually migrate to it so I can dig up some more
 **Link to work:** 
 * [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
