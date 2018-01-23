@@ -162,3 +162,10 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Thoughts:** It has been ages since I finished a book (because of pleasure) I know I didn't become a god in Python or anything but for I feel confident enough for hobby projects and I might actually migrate to it so I can dig up some more
 **Link to work:** 
 * [Pyhton Facil](https://www.amazon.com.mx/Python-f%C3%A1cil-Arnaldo-Perez-Casta%C3%B1o/dp/8426722121/ref=sr_1_2?ie=UTF8&qid=1515371081&sr=8-2&keywords=python+facil)
+
+### Day 15: January 22. Monday
+
+**Today's Progress**: Investigated what is a red black tree and why we define functions inside of functions in python
+**Thoughts:** I'm filling up the gaps the book left so I can move more confidently in python, but while syntax is a little weird it's still not that hard, actually
+**Link to work:** 
+* ![Double def vs decorator](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%2015/R1D15%20proof%20of%20work%201%20-%20python.PNG)
