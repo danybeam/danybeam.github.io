@@ -169,3 +169,11 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Thoughts:** I'm filling up the gaps the book left so I can move more confidently in python, but while syntax is a little weird it's still not that hard, actually
 **Link to work:** 
 * ![Double def vs decorator](https://github.com/danybeam/danybeam.github.io/blob/master/100DaysOfCode/R1/Day%2015/R1D15%20proof%20of%20work%201%20-%20python.PNG)
+
+### Day 16: January 23. Tuesday
+
+**Today's Progress**: Investigated why pthon 3 exists and why it became so disruptive, what are dotfiles, and how semantic versioning works
+**Thoughts:** I'm starting to feel bad that I'm not actually writing lines of code anymore but I really feel I need to finish investigating before trying to mess around with code in my "100 days of code to do list" I'm almost done with investigation after that is done I promise lines will start flowing... or at least appearing
+**Link to work:** 
+* [Semantic versioning](https://semver.org/)
+* [Python 2 or 3?](https://wiki.python.org/moin/Python2orPython3)
