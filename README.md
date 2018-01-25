@@ -177,3 +177,11 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Link to work:** 
 * [Semantic versioning](https://semver.org/)
 * [Python 2 or 3?](https://wiki.python.org/moin/Python2orPython3)
+
+### Day 17: January 24. Wednesday
+
+**Today's Progress**: Cleaned (read, deleted) my repositories and started reading about legality of open source software and contributing guidelines
+**Thoughts:** this took longer than I expected abd will keep being longer for a while but chipping it bit by bit seems like a good strategy for now
+**Link to work:** 
+* [Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
+* [Creating releases](https://help.github.com/articles/creating-releases/)
