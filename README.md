@@ -185,3 +185,10 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Link to work:** 
 * [Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
 * [Creating releases](https://help.github.com/articles/creating-releases/)
+
+### Day 18: January 25. Thursday
+
+**Today's Progress**: Read about a  bunch of licenses to see what I might be lokking for in the future
+**Thoughts:** pretty averge day, nothing much to add
+**Link to work:** 
+* [Choose a license](https://choosealicense.com/)
