@@ -188,7 +188,13 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 
 ### Day 18: January 25. Thursday
 
-**Today's Progress**: Read about a  bunch of licenses to see what I might be lokking for in the future
+**Today's Progress**: Read about a  bunch of licenses to see what I might be looking for in the future
 **Thoughts:** pretty averge day, nothing much to add
 **Link to work:** 
 * [Choose a license](https://choosealicense.com/)
+
+### Day 19: January 25. Thursday
+
+**Today's Progress**: finished reading about licenses, started reading about code documentation
+**Thoughts:** pretty averge day, nothing much to add
+**Link to work:** *quick google search for 'python documentation'*
