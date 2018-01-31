@@ -193,8 +193,14 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Link to work:** 
 * [Choose a license](https://choosealicense.com/)
 
-### Day 19: January 25. Thursday
+### Day 19: January 29. Monday
 
 **Today's Progress**: finished reading about licenses, started reading about code documentation
 **Thoughts:** pretty averge day, nothing much to add
 **Link to work:** *quick google search for 'python documentation'*
+
+### Day 20: January 30. Tuesday
+
+**Today's Progress**: Made a simple 404 page for my github pages
+**Thoughts:** It felt great to write computery stuff even if it wasn't reeally a program, it's not the best 404 page but it's still better than the default one.
+**Link to work:** [github pages repo](https://github.com/danybeam/danybeam.github.io)
