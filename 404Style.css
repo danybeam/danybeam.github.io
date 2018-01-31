@@ -1,0 +1,13 @@
+body{
+    background: url('https://img00.deviantart.net/1b36/i/2013/048/1/a/not_all_those_who_wander_are_lost__by_wanderflower-d5vaf0i.jpg') no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+p{
+    color: Maroon;
+    text-align: center;
+    font-size: 50px;
+}
