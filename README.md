@@ -210,3 +210,9 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Today's Progress**: Prepared repository to start PyTime-Utils
 **Thoughts:** Who would have thought that starting a project could take a whole hour? not me that's for sure
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
+
+### Day 22: Febrary 2. Friday
+
+**Today's Progress**: The repository is now on a "upload ready" state so others can download it with pip
+**Thoughts:** I'm pretty sure I'm starting with the end but I prefer to prepare things now than have my excitement be replaced by anger when it doesn't upload automatically
+**Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
