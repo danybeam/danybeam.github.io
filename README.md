@@ -223,7 +223,7 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Thoughts:** I forgot to post yesterday but if you check the repo you'll see the timestamps
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
 
-### Day 22: Febrary 2. Friday
+### Day 24: Febrary 2. Friday
 
 **Today's Progress**: Extended Ticker into Subject_Ticker so that more than 1 function can be called
 **Thoughts:** Learning about functools.partial was cool, too bad the object is not innately dynamic it would have saved be from many troubles
