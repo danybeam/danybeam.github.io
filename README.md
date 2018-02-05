@@ -216,3 +216,15 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Today's Progress**: The repository is now on a "upload ready" state so others can download it with pip
 **Thoughts:** I'm pretty sure I'm starting with the end but I prefer to prepare things now than have my excitement be replaced by anger when it doesn't upload automatically
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
+
+### Day 23: Febrary 3. Saturday
+
+**Today's Progress**: Made infinite Timer to call a function regularly
+**Thoughts:** I forgot to post yesterday but if you check the repo you'll see the timestamps
+**Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
+
+### Day 22: Febrary 2. Friday
+
+**Today's Progress**: Extended Ticker into Subject_Ticker so that more than 1 function can be called
+**Thoughts:** Learning about functools.partial was cool, too bad the object is not innately dynamic it would have saved be from many troubles
+**Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
