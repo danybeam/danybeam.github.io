@@ -223,8 +223,14 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Thoughts:** I forgot to post yesterday but if you check the repo you'll see the timestamps
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
 
-### Day 24: Febrary 2. Friday
+### Day 24: Febrary 4. Sunday
 
 **Today's Progress**: Extended Ticker into Subject_Ticker so that more than 1 function can be called
 **Thoughts:** Learning about functools.partial was cool, too bad the object is not innately dynamic it would have saved be from many troubles
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
+
+### Day 25: Febrary 5. Monday
+
+**Today's Progress**: Followed tutorials from Siraj
+**Thoughts:** I've been programming nonstop because of my OS class, I swear to good I'm not on the rightmood to be messed with today
+**Link to work:** no online work today
