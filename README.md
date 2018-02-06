@@ -234,3 +234,9 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Today's Progress**: Followed tutorials from Siraj
 **Thoughts:** I've been programming nonstop because of my OS class, I swear to good I'm not on the rightmood to be messed with today
 **Link to work:** no online work today
+
+### Day 26: Febrary 6. Tuesday
+
+**Today's Progress**: Implemented StopWatch function but created a little bug with time measurement
+**Thoughts:** Feels bad to leave the bug lying there but time's up so time's up
+**Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
