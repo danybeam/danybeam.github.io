@@ -211,32 +211,50 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Thoughts:** Who would have thought that starting a project could take a whole hour? not me that's for sure
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
 
-### Day 22: Febrary 2. Friday
+### Day 22: February 2. Friday
 
 **Today's Progress**: The repository is now on a "upload ready" state so others can download it with pip
 **Thoughts:** I'm pretty sure I'm starting with the end but I prefer to prepare things now than have my excitement be replaced by anger when it doesn't upload automatically
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
 
-### Day 23: Febrary 3. Saturday
+### Day 23: February 3. Saturday
 
 **Today's Progress**: Made infinite Timer to call a function regularly
 **Thoughts:** I forgot to post yesterday but if you check the repo you'll see the timestamps
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
 
-### Day 24: Febrary 4. Sunday
+### Day 24: February 4. Sunday
 
 **Today's Progress**: Extended Ticker into Subject_Ticker so that more than 1 function can be called
 **Thoughts:** Learning about functools.partial was cool, too bad the object is not innately dynamic it would have saved be from many troubles
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
 
-### Day 25: Febrary 5. Monday
+### Day 25: February 5. Monday
 
 **Today's Progress**: Followed tutorials from Siraj
 **Thoughts:** I've been programming nonstop because of my OS class, I swear to good I'm not on the rightmood to be messed with today
 **Link to work:** no online work today
 
-### Day 26: Febrary 6. Tuesday
+### Day 26: February 6. Tuesday
 
 **Today's Progress**: Implemented StopWatch function but created a little bug with time measurement
 **Thoughts:** Feels bad to leave the bug lying there but time's up so time's up
+**Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
+
+### Day 27: February 7. Wednesday
+
+**Today's Progress**: Fixed stopwatch bug
+**Thoughts:** In your FACE!!!
+**Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
+
+### Day 28: February 8. Thursday
+
+**Today's Progress**: Started time parser
+**Thoughts:** how the F did I forget to report!
+**Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
+
+### Day 29: February 9. Thursday
+
+**Today's Progress**: finished time parser and constructor of custom timer
+**Thoughts:** seriously WTH is wrong with me?!
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
