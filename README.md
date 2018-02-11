@@ -253,8 +253,15 @@ anyways, looks like balancing 100DoC and school isn't going to be as easy as I t
 **Thoughts:** how the F did I forget to report!
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
 
-### Day 29: February 9. Thursday
+### Day 29: February 9. Friday
 
 **Today's Progress**: finished time parser and constructor of custom timer
 **Thoughts:** seriously WTH is wrong with me?!
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)
+
+### Day 30: February 10. Saturday
+
+**Today's Progress**: read a couple of pages of Emulator 101
+**Thoughts:** I wasn't feeling very Python-y today so I took a break by doing some research  
+Happy 1 month anniversary to me :D
+**Link to work:** [Emulator 101 page](http://emulator101.com/)
