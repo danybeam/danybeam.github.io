@@ -309,3 +309,11 @@ Happy 1 month anniversary to me :D
 **Thoughts:** What a productive day of not doing anything. it seems that even when I try to avoid Python I get Python.  
 
 **Link to work:** No link, just google searches  
+
+### Day 32: February 12. Monday
+
+**Today's Progress**: Learned about why emulation is so hard  
+
+**Thoughts:** HORRIBLE week start, I really don't feel it today  
+
+**Link to work:** No link  
