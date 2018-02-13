@@ -317,3 +317,12 @@ Happy 1 month anniversary to me :D
 **Thoughts:** HORRIBLE week start, I really don't feel it today  
 
 **Link to work:** No link  
+
+### Day 33: February 13. Tuesday
+
+**Today's Progress**: Finished implementing my custom timer class  
+
+**Thoughts:** WOOOOOO it's amazing how a good night of sleep can help when you feel bad, I don't think I will try as hard Python (just to avoid burnout)  
+but after a little rest I'm BACK!!
+
+**Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)  
