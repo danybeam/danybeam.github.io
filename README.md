@@ -326,3 +326,11 @@ Happy 1 month anniversary to me :D
 but after a little rest I'm BACK!!
 
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)  
+
+### Day 34: February 19. Monday
+
+**Today's Progress**: My package is finally on a somewhat deployable stage, but PyPi is undergoin maintenance so no uploading yet  
+
+**Thoughts:** I was planning to drop the challenge but if I don't complete it now, I might never have the time again
+
+**Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)  
