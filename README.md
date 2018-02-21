@@ -334,3 +334,11 @@ but after a little rest I'm BACK!!
 **Thoughts:** I was planning to drop the challenge but if I don't complete it now, I might never have the time again
 
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)  
+
+### Day 35: February 21. Wednesday
+
+**Today's Progress**: a little normalization
+
+**Thoughts:** I still don't feel on top shape but it's easier to keep going than dropping and restarting later
+
+**Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)  
