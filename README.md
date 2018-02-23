@@ -342,3 +342,11 @@ but after a little rest I'm BACK!!
 **Thoughts:** I still don't feel on top shape but it's easier to keep going than dropping and restarting later
 
 **Link to work:** [PyTime-Utils repo](https://github.com/danybeam/PyTime-Utils)  
+
+### Day 36: February 22. Thursday
+
+**Today's Progress**: banged my head against the wall to present a dynamoDB query on a webpage
+
+**Thoughts:** The challenge explicitly said "no work or school code" but I wanted to learn more JS so I'm counting it goddammit
+
+**Link to work:** School work, no link sorry :/  
