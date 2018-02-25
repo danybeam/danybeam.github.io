@@ -358,3 +358,11 @@ but after a little rest I'm BACK!!
 **Thoughts:** I know changing projects is NOT optimal since I can get to the point with dozens of unfinished projects but I need to think about something else for a while  
 
 **Link to work:** [PyMatch repo](https://github.com/danybeam/PyMatch)
+
+### Day 38: February 25. Sundday
+
+**Today's Progress**: continued Project "PyMatch", added interruption handler and matchmaker
+
+**Thoughts:** It's amazing how much I like coding when it's not a chore anymore
+
+**Link to work:** [PyMatch repo](https://github.com/danybeam/PyMatch)
