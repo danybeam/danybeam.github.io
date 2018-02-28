@@ -359,10 +359,18 @@ but after a little rest I'm BACK!!
 
 **Link to work:** [PyMatch repo](https://github.com/danybeam/PyMatch)
 
-### Day 38: February 25. Sundday
+### Day 38: February 25. Sunday
 
 **Today's Progress**: continued Project "PyMatch", added interruption handler and matchmaker
 
 **Thoughts:** It's amazing how much I like coding when it's not a chore anymore
+
+**Link to work:** [PyMatch repo](https://github.com/danybeam/PyMatch)
+
+### Day 39: February 27. Tuesday
+
+**Today's Progress**: Finished the matchmaker itself, it's now pending that it's able to comunicate with other modules
+
+**Thoughts:** big progress today, pretty happy with it
 
 **Link to work:** [PyMatch repo](https://github.com/danybeam/PyMatch)
