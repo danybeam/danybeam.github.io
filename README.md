@@ -374,3 +374,11 @@ but after a little rest I'm BACK!!
 **Thoughts:** big progress today, pretty happy with it
 
 **Link to work:** [PyMatch repo](https://github.com/danybeam/PyMatch)
+
+### Day 40: March 1. Thursday
+
+**Today's Progress**: Published my package to PyPi
+
+**Thoughts:** I'm still getting used to the flow of publishing a package, I think after making the facade for it I'll start a new project
+
+**Link to work:** [PyMatch repo](https://github.com/danybeam/PyMatch)
