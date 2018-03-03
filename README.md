@@ -382,3 +382,11 @@ but after a little rest I'm BACK!!
 **Thoughts:** I'm still getting used to the flow of publishing a package, I think after making the facade for it I'll start a new project
 
 **Link to work:** [PyMatch repo](https://github.com/danybeam/PyMatch)
+
+### Day 42: March 2. Friday
+
+**Today's Progress**: Learned how to use TCP and UDP to comunicate processess in python
+
+**Thoughts:** I love how simple python is. I skipped DOZENS of lines that I would have made in java just to make a crappy 1-1 chat app.
+
+**Link to work:** no link today
