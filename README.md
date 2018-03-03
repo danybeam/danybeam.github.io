@@ -383,7 +383,7 @@ but after a little rest I'm BACK!!
 
 **Link to work:** [PyMatch repo](https://github.com/danybeam/PyMatch)
 
-### Day 42: March 2. Friday
+### Day 41: March 2. Friday
 
 **Today's Progress**: Learned how to use TCP and UDP to comunicate processess in python
 
@@ -391,7 +391,7 @@ but after a little rest I'm BACK!!
 
 **Link to work:** no link today
 
-### Day 43: March 3. Saturday
+### Day 42: March 3. Saturday
 
 **Today's Progress**: Learned about packaging limitations and what to put on the __init__.py file
 
