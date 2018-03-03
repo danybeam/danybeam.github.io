@@ -390,3 +390,11 @@ but after a little rest I'm BACK!!
 **Thoughts:** I love how simple python is. I skipped DOZENS of lines that I would have made in java just to make a crappy 1-1 chat app.
 
 **Link to work:** no link today
+
+### Day 43: March 3. Saturday
+
+**Today's Progress**: Learned about packaging limitations and what to put on the __init__.py file
+
+**Thoughts:** Apparently there's no precise concensus onwhat belongs on a init file in python, I decided to make it my own and use it to be able to use it as a facade when the package can be used both for development or regular use
+
+**Link to work:** [PyMatch repo](https://github.com/danybeam/PyMatch)
