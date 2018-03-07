@@ -405,12 +405,4 @@ but after a little rest I'm BACK!!
 
 **Thoughts:** Apparently there's no precise concensus on what belongs on a init file in python, I decided to make it my own and use it to be able to use it as a facade when the package can be used both for development or regular use
 
-**Link to work:** [Tkinter tutorial](
-
-### Day 42: March 3. Saturday
-
-**Today's Progress**: Learned about how tkinter works
-
-**Thoughts:** This time I definettly failed the challenge, but I don't care. I'm programming regularly on whatever I want so I'll keep doing it until I think that's enough (read as: probably never)
-
-**Link to work:** [PyMatch repo](https://github.com/danybeam/PyMatch))
+**Link to work:** [Tkinter tutorial](https://www.python-course.eu/tkinter_canvas.php)
