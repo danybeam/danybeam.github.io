@@ -401,8 +401,8 @@ but after a little rest I'm BACK!!
 
 ### Day 43: March 6. Tuesday
 
-**Today's Progress**: Learned about packaging limitations and what to put on the __init__.py file
+**Today's Progress**: Learned a bit about how tkinter works, I don't know everythong but I feel ready to start tackling something
 
-**Thoughts:** Apparently there's no precise concensus on what belongs on a init file in python, I decided to make it my own and use it to be able to use it as a facade when the package can be used both for development or regular use
+**Thoughts:** This time I definetly failed the challenge, but I don't care. I'm programming constantly on whatever weird idea I happen to have that day (or on my ever growing list) so I'll keep doing it until I feel is enough (read as: probably never)
 
 **Link to work:** [Tkinter tutorial](https://www.python-course.eu/tkinter_canvas.php)
