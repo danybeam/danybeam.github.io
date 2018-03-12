@@ -406,3 +406,14 @@ but after a little rest I'm BACK!!
 **Thoughts:** This time I definetly failed the challenge, but I don't care. I'm programming constantly on whatever weird idea I happen to have that day (or on my ever growing list) so I'll keep doing it until I feel is enough (read as: probably never)
 
 **Link to work:** [Tkinter tutorial](https://www.python-course.eu/tkinter_canvas.php)
+
+### Day 44: March 11. Sunday
+
+**Today's Progress**: I learned the basics of wxPython
+
+**Thoughts:** SO.... I haven't even tinkering with tkinter and I already switched to wxPython, they might not be identical but for simple apps they are similar enough and easy enough to make the change I hope to start graficall projects soon
+
+**Relevant Links:** 
+* [wxPython tutorial](http://zetcode.com/wxpython/menustoolbars/)
+* [wxPython wiki](https://wxpython.org/)
+
