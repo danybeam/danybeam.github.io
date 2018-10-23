@@ -16,3 +16,14 @@
     * Modulos para usar thingspeak, el medidor de temperatura/humedad y medidor de dioxido de carbono
         * El tener estos modulos individuales tenemos los prototipos base de como todo se conecta a internet
         * Ademas con estos prototipos pudimos hacer pruebas sobre permisos que pudieran haber faltado en algun punto del proceso
+
+## Se aviso a la maestra que a partir de este punto se reporta por semana
+
+## Semana de 15/10 &rarr 21/10
+* 20-10-2018:
+   * Modulo para medir CO2:
+      * El tener estos modulos individuales tenemos los prototipos base de como todo se conecta a internet
+      * con este modulo terminamos de programar lo necesario para generar datos
+   * Programa de punto de entrada y ciclo infinito:
+      * Con este programa se integraron todas las tecnologias para el proyecto
+      * Con este programa podemos usar los modulos continuamente para hacer mediciones y empezar a hacer analitics en la nub
