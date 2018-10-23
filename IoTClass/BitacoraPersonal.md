@@ -19,7 +19,7 @@
 
 ## Se aviso a la maestra que a partir de este punto se reporta por semana
 
-## Semana de 15/10 &rarr 21/10
+## Semana de 15/10 &rarr; 21/10
 * 20-10-2018:
    * Modulo para medir CO2:
       * El tener estos modulos individuales tenemos los prototipos base de como todo se conecta a internet
