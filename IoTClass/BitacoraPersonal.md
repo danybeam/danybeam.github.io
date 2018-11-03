@@ -27,3 +27,7 @@
    * Programa de punto de entrada y ciclo infinito:
       * Con este programa se integraron todas las tecnologias para el proyecto
       * Con este programa podemos usar los modulos continuamente para hacer mediciones y empezar a hacer analitics en la nub
+
+## Semana de 22/10 &rarr; 28/10
+Nos pusimos de acuerdo para hacer trabajo no relacionado con la materia
+No hubo avances
