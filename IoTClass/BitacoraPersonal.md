@@ -31,3 +31,12 @@
 ## Semana de 22/10 &rarr; 28/10
 Nos pusimos de acuerdo para hacer trabajo no relacionado con la materia  
 No hubo avances
+
+## Semana de 29/10 &rarr; 04/11
+* IoT Day, 03/11"
+   * Hice plugin de heatmap para ThingSpeak
+      * esto nos permitio poder cumplir un requerimiento directo y no tener que bajar la escala de nuestro proyecto
+   * Hice diagrama UML del proyecto
+      * al poder ver la arquitectura del proyecto en una sola imagen es mas facil mantener el codigo porque sabemos que funcion tiene cada componente
+   * Hice diagrama ER
+      * al tener la estructura de las tablas que almacenan informacion podemos saber a que tenemos acceso y a que no
