@@ -45,3 +45,7 @@ No hubo avances
 * 10/11/2018:
    * Termine el plugin de heatmap con opcion para cambiar el radio de los puntos automaticamente
       * esto nos permite saber que tanta influencia ejerce cada nodo dentro del sistema en general
+
+## Semana de 12/11 &rarr; 18/11
+* 17/11/2018:
+   * Co-escribir el reporte
