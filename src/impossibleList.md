@@ -10,10 +10,28 @@
 * Retire at 40
 * Own a semi-self-managing busyness
   * *Something like a hotel*
+* Release a game and sell >= 1000 copies
+
+## Personal Goals
+
+* control >= 50% of my time
+  * sleep counts for this measure
 
 ## Skill Goals
 
 * Learn to Draw
+* learn to speak at least 5 languages fluent enough to have a conversation
+  * **Current progress (3)**
+    * Spanish
+    * French
+    * English
+  * Interesting languages to learn
+    * German
+    * Japanese
+    * Greek
+    * Russian
+    * Korean
+    * Hindi
 
 ## DIY Goals
 
