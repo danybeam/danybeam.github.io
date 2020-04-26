@@ -20,7 +20,8 @@
 ## Skill Goals
 
 * Learn to Draw
-* learn to speak at least 5 languages fluent enough to have a conversation
+* Learn ASL
+* Learn to speak at least 5 languages fluent enough to have a conversation
   * **Current progress (3)**
     * Spanish
     * French
