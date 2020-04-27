@@ -10,7 +10,8 @@
 * Retire at 40
 * Own a semi-self-managing busyness
   * *Something like a hotel*
-* Release a game and sell >= 1000 copies
+* Become an indie developer
+  * Release a game and sell >= 1000 copies
 
 ## Personal Goals
 
